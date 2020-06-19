@@ -110,5 +110,42 @@
             ],
             "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
         }
+    ],
+    "carousel": [{
+            "albumId": 1,
+            "id": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+        },
+        {
+            "albumId": 2,
+            "id": 5,
+            "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+        },
+        {
+            "albumId": 3,
+            "id": 9,
+            "title": "qui eius qui autem sed",
+            "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+        },
+        {
+            "albumId": 4,
+            "id": 13,
+            "title": "repudiandae iusto deleniti rerum",
+            "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+        },
+        {
+            "albumId": 5,
+            "id": 17,
+            "title": "natus doloribus necessitatibus ipsa",
+            "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
+        },
+        {
+            "albumId": 6,
+            "id": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+        }
     ]
 }
