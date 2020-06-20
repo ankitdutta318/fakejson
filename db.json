@@ -1,8 +1,8 @@
 {
     "products": [{
-            "albumId": 1,
             "id": 1,
             "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "rating": 2.5,
             "url": [
                 "https://via.placeholder.com/600/92c952",
                 "https://via.placeholder.com/600/771796",
@@ -12,9 +12,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/92c952"
         },
         {
-            "albumId": 2,
-            "id": 5,
+            "id": 2,
             "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "rating": 4.5,
             "url": ["https://via.placeholder.com/600/f66b97",
                 "https://via.placeholder.com/600/56a8c2",
                 "https://via.placeholder.com/600/b0f7cc",
@@ -23,9 +23,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
         },
         {
-            "albumId": 3,
-            "id": 9,
+            "id": 3,
             "title": "qui eius qui autem sed",
+            "rating": 5.0,
             "url": ["https://via.placeholder.com/600/51aa97",
                 "https://via.placeholder.com/600/810b14",
                 "https://via.placeholder.com/600/1ee8a4",
@@ -34,9 +34,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
         },
         {
-            "albumId": 4,
-            "id": 13,
+            "id": 4,
             "title": "repudiandae iusto deleniti rerum",
+            "rating": 3.8,
             "url": ["https://via.placeholder.com/600/197d29",
                 "https://via.placeholder.com/600/61a65",
                 "https://via.placeholder.com/600/f9cee5",
@@ -45,9 +45,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/197d29"
         },
         {
-            "albumId": 5,
-            "id": 17,
+            "id": 5,
             "title": "natus doloribus necessitatibus ipsa",
+            "rating": 4.0,
             "url": ["https://via.placeholder.com/600/9c184f",
                 "https://via.placeholder.com/600/1fe46f",
                 "https://via.placeholder.com/600/56acb2",
@@ -56,9 +56,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
         },
         {
-            "albumId": 6,
-            "id": 1,
+            "id": 6,
             "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "rating": 4.2,
             "url": ["https://via.placeholder.com/600/92c952",
                 "https://via.placeholder.com/600/771796",
                 "https://via.placeholder.com/600/24f355",
@@ -67,9 +67,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/92c952"
         },
         {
-            "albumId": 7,
-            "id": 5,
+            "id": 7,
             "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "rating": 3.1,
             "url": ["https://via.placeholder.com/600/f66b97",
                 "https://via.placeholder.com/600/56a8c2",
                 "https://via.placeholder.com/600/b0f7cc",
@@ -78,9 +78,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
         },
         {
-            "albumId": 8,
-            "id": 9,
+            "id": 8,
             "title": "qui eius qui autem sed",
+            "rating": 4.5,
             "url": ["https://via.placeholder.com/600/51aa97",
                 "https://via.placeholder.com/600/810b14",
                 "https://via.placeholder.com/600/1ee8a4",
@@ -89,9 +89,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
         },
         {
-            "albumId": 9,
-            "id": 13,
+            "id": 9,
             "title": "repudiandae iusto deleniti rerum",
+            "rating": 2.8,
             "url": ["https://via.placeholder.com/600/197d29",
                 "https://via.placeholder.com/600/61a65",
                 "https://via.placeholder.com/600/f9cee5",
@@ -100,9 +100,9 @@
             "thumbnailUrl": "https://via.placeholder.com/150/197d29"
         },
         {
-            "albumId": 10,
-            "id": 17,
+            "id": 10,
             "title": "natus doloribus necessitatibus ipsa",
+            "rating": 3.6,
             "url": ["https://via.placeholder.com/600/9c184f",
                 "https://via.placeholder.com/600/1fe46f",
                 "https://via.placeholder.com/600/56acb2",
@@ -112,38 +112,32 @@
         }
     ],
     "carousel": [{
-            "albumId": 1,
             "id": 1,
             "title": "accusamus beatae ad facilis cum similique qui sunt",
             "thumbnailUrl": "https://via.placeholder.com/150/92c952"
         },
         {
-            "albumId": 2,
-            "id": 5,
+            "id": 2,
             "title": "natus nisi omnis corporis facere molestiae rerum in",
             "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
         },
         {
-            "albumId": 3,
-            "id": 9,
+            "id": 3,
             "title": "qui eius qui autem sed",
             "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
         },
         {
-            "albumId": 4,
-            "id": 13,
+            "id": 4,
             "title": "repudiandae iusto deleniti rerum",
             "thumbnailUrl": "https://via.placeholder.com/150/197d29"
         },
         {
-            "albumId": 5,
-            "id": 17,
+            "id": 5,
             "title": "natus doloribus necessitatibus ipsa",
             "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
         },
         {
-            "albumId": 6,
-            "id": 1,
+            "id": 6,
             "title": "accusamus beatae ad facilis cum similique qui sunt",
             "thumbnailUrl": "https://via.placeholder.com/150/92c952"
         }
